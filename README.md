@@ -1,1 +1,1 @@
-![Programmers Rank](https://github.com/kdh044/github-programmers-rank/raw/main/github-programmers-rank/lib/result.svg)
+![Programmers Rank](https://github.com/kdh044/github-programmers-rank/raw/master/github-programmers-rank/lib/result.svg)
