@@ -1,2 +1,1 @@
-![Programmers Badge]
-(https://raw.githubusercontent.com/{kdh044}/Programmers_Badge_Generator/main/result/result.svg)
+[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
