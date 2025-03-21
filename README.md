@@ -1,11 +1,7 @@
 ## 🏆 코딩테스트
 
-<div align="center">
-
-### Programmers Rank
 <img src="https://raw.githubusercontent.com/kdh044/github-programmers-rank/master/lib/result.svg" alt="Programmers Rank" />
 
-### Baekjoon (solved.ac)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danny042)](https://solved.ac/danny042/)
 
 ### 🔥 Most Used Languages
