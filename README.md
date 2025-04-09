@@ -1,7 +1,4 @@
-## 🏆 코딩테스트
- 
- <div align="center">
- 
+## 🏆 코딩테스트 
  ### Programmers Rank
  <img src="https://raw.githubusercontent.com/kdh044/github-programmers-rank/master/lib/result.svg" alt="Programmers Rank" />
  
