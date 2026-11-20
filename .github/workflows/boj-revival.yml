@@ -31,9 +31,9 @@ jobs:
           with open(path, "r", encoding="utf-8") as f:
               content = f.read()
 
-          title = f"<h1>백준 부활 기원 {day_count}일차</h1>"
+          title = f"<h1>백준 부활 {day_count}일차</h1>"
           content = re.sub(
-              r"<h1>백준 부활 기원 \d+일차</h1>",
+              r"<h1>백준 부활 \d+일차</h1>",
               title,
               content,
               count=1,
