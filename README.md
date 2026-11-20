@@ -2,7 +2,7 @@
 
 <h1>백준부활</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danny042)](https://solved.ac/danny042/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?handle=danny1321)](https://solved.ac/danny1321/)
 
 <!-- BOJ-REVIVAL-START -->
 
